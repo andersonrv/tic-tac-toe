@@ -1,0 +1,10 @@
+C:\Users\Anderson\source\repos\tictactoe2\tictactoe2\bin\Debug\tictactoe2.exe.config
+C:\Users\Anderson\source\repos\tictactoe2\tictactoe2\bin\Debug\tictactoe2.exe
+C:\Users\Anderson\source\repos\tictactoe2\tictactoe2\bin\Debug\tictactoe2.pdb
+C:\Users\Anderson\source\repos\tictactoe2\tictactoe2\obj\Debug\tictactoe2.csprojResolveAssemblyReference.cache
+C:\Users\Anderson\source\repos\tictactoe2\tictactoe2\obj\Debug\tictactoe2.Form1.resources
+C:\Users\Anderson\source\repos\tictactoe2\tictactoe2\obj\Debug\tictactoe2.Properties.Resources.resources
+C:\Users\Anderson\source\repos\tictactoe2\tictactoe2\obj\Debug\tictactoe2.csproj.GenerateResource.Cache
+C:\Users\Anderson\source\repos\tictactoe2\tictactoe2\obj\Debug\tictactoe2.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\source\repos\tictactoe2\tictactoe2\obj\Debug\tictactoe2.exe
+C:\Users\Anderson\source\repos\tictactoe2\tictactoe2\obj\Debug\tictactoe2.pdb
